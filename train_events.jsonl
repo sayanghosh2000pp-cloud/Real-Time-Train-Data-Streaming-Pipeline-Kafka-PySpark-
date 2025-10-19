@@ -1,0 +1,4 @@
+{"train_no": "12623", "timestamp": 1697625600, "station": "NDLS", "status": "on_time", "delay_min": 0}
+{"train_no": "12623", "timestamp": 1697625660, "station": "BCT", "status": "delayed", "delay_min": 15}
+{"train_no": "12345", "timestamp": 1697625720, "station": "MAS", "status": "on_time", "delay_min": 0}
+{"train_no": "11015", "timestamp": 1697625780, "station": "SBC", "status": "delayed", "delay_min": 20}
